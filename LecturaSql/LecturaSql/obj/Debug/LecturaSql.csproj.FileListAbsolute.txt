@@ -1,0 +1,10 @@
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\bin\Debug\LecturaSql.exe.config
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\bin\Debug\LecturaSql.exe
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\bin\Debug\LecturaSql.pdb
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\obj\Debug\LecturaSql.Form1.resources
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\obj\Debug\LecturaSql.Properties.Resources.resources
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\obj\Debug\LecturaSql.csproj.GenerateResource.Cache
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\obj\Debug\LecturaSql.exe
+c:\users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\obj\Debug\LecturaSql.pdb
+C:\Users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\obj\Debug\LecturaSql.csprojResolveAssemblyReference.cache
+C:\Users\dsa5\documents\visual studio 2013\Projects\LecturaSql\LecturaSql\obj\Debug\LecturaSql.csproj.ResolveComReference.cache
